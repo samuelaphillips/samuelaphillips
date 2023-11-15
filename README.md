@@ -1,6 +1,6 @@
 ## 👋 I'm Samuel
 
-I'm technician at [Verve](https://www.verveit.com/#) with a focus on network operations. Personal interests include networking and open-source software. WGU alumni.
+I'm technician at [Verve](https://www.verveit.com/#) with a focus on network operations. Personal interests include networking and open-source. WGU alumni.
 
 - Work hard
 - Stay Humble
